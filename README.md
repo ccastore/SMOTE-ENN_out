@@ -1,2 +1,3 @@
 # SMOTE-ENN_out
-Oversamplng method modification SMOTE-ENN
+Oversampling method modification SMOTE-ENN
+
